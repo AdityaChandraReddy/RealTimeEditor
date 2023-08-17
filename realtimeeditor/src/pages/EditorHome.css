@@ -1,0 +1,53 @@
+.homePageWrapper {
+  background: #1c1e29;
+  height: 95vh;
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.formWrappper {
+  background: #282a36;
+  padding: 20px;
+  width: 400px;
+  max-width: 90%;
+  border-radius: 10px;
+}
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+}
+.mainLabel {
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+.btn {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.joinBtn {
+  background: #4aed88;
+  width: 100px;
+  margin-left: auto;
+}
+.joinBtn:hover {
+  background: #2b824c;
+}
+.createInfo {
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.createNewBtn {
+  color: #4aed88;
+  text-decoration: none;
+  border-bottom: 1px solid #4aed88;
+  transition: all 0.3s ease-in-out;
+}
+.createNewBtn:hover {
+  color: #2b824c;
+  border-color: #2b824c;
+}
