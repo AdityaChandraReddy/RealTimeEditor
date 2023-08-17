@@ -1,0 +1,23 @@
+{
+  "name": "monitoring-backend",
+  "version": "1.0.0",
+  "description": "Backend For monitoring webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cors": "^2.8.1",
+    "express": "~4.0.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.1",
+    "sockets": "^0.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Aditya",
+  "license": "ISC"
+}

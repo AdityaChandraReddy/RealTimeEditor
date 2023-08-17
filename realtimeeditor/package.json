@@ -9,7 +9,20 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@codemirror/lang-javascript": "github:codemirror/lang-javascript",
+    "@uiw/react-codemirror": "^4.21.7",
+    "codemirror": "^5.65.13",
+    "node-sass": "^7.0.3",
+
+    "react-hot-toast": "^2.4.1",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-pro-sidebar": "^1.1.0-alpha.1",
+    "react-router-dom": "^6.11.2",
+    "sass": "^1.62.1",
+    "socket.io-client": "^4.7.1",
+    "typescript": "^4.9.5",
+    "uuid": "^9.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
